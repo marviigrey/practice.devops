@@ -6,7 +6,7 @@ echo "taday was great"
 pwd
 whoami
 echo "God" 
-
+hello
 <<com
 echo"This doesn't echo"
 
