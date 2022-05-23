@@ -5,7 +5,7 @@ date
 echo "taday was great"
 pwd
 whoami
-
+echo "God" 
 
 <<com
 echo"This doesn't echo"
